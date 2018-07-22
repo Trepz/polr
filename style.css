@@ -12,3 +12,16 @@ body {
     display: block;
     margin: 15px auto;
 }
+.polr-links {
+    color: #E7DFDD;
+    text-align: center;
+}
+.polr-links svg {
+    max-width: 50px;
+    padding: 20px;
+    cursor: pointer;
+    transition: transform 200ms ease;
+}
+.polr-links svg:hover {
+    transform: scale(1.1);
+}
