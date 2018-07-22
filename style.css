@@ -13,8 +13,11 @@ body {
     margin: 15px auto;
 }
 .polr-links {
-    color: #E7DFDD;
     text-align: center;
+}
+.polr-links a {
+    color: #E7DFDD;
+    text-decoration: none;
 }
 .polr-links svg {
     max-width: 50px;
